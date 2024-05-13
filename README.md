@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/leonardaz/LeoLab/_apis/build/status%2Fdranoel65.pipelines-java?branchName=main)](https://dev.azure.com/leonardaz/LeoLab/_build/latest?definitionId=18&branchName=main)
 
 # Contributing
 
